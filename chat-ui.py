@@ -273,20 +273,19 @@ def build_system_prompt(skill_name: str) -> str:
     # SKILL CONTENT (from examples/*.md)
     # ==========================================================================
     
+    # Files with SPECIFIC placement in the prompt
     skill_identite = skill_examples.get("identite-style", "")
     skill_methodologie = skill_examples.get("methodologie", "")
     skill_guardrails = skill_examples.get("guardrails", "")
     
-    # Get main content (pathologies, etc.)
+    # Files already used above (don't duplicate)
+    already_used = {"identite-style", "methodologie", "guardrails"}
+    
+    # Load ALL remaining files from examples/ folder
     skill_content = ""
-    content_keys = [
-        "pathologies", "pathologies-complementaires", "parasitoses", 
-        "intolerances", "carences", "psychosomatique", "semiologie", 
-        "objections", "alertes", "structure-reponse", "exemples-reponses"
-    ]
-    for key in content_keys:
-        if key in skill_examples:
-            skill_content += f"\n\n{skill_examples[key]}"
+    for key, content in skill_examples.items():
+        if key not in already_used:
+            skill_content += f"\n\n{content}"
     
     # Get shared guardrails
     shared_guardrails = ""
