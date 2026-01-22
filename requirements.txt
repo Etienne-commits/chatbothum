@@ -1,0 +1,14 @@
+# PULSAR Chatbot - Dependencies
+# ==============================
+
+# Anthropic Claude API
+anthropic>=0.18.0
+
+# YAML parsing
+pyyaml>=6.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Web UI
+gradio>=4.0.0

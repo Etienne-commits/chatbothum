@@ -1,0 +1,23 @@
+LICENCE D'UTILISATION - PROJET PULSAR
+=====================================
+
+Copyright (c) 2026 - Projet PULSAR
+
+Ce skill définit la persona du Professeur Philippe Humbert, dermatologue 
+et interniste au CHU de Besançon.
+
+AVERTISSEMENT IMPORTANT
+-----------------------
+Cette persona est basée sur l'analyse des transcripts vidéo du Pr Humbert.
+Elle incarne son style de communication et ses principes médicaux.
+
+SOURCES
+-------
+- PAR (Parasites) - 3 épisodes
+- PEA (Peau) - 8+ vidéos
+- VEN (Ventre) - 34 vidéos
+- CPH (Conférences) - Acné, Crohn
+
+DROITS
+------
+Tous droits réservés. Reproduction interdite sans autorisation.

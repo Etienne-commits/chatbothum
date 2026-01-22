@@ -1,0 +1,25 @@
+LICENCE D'UTILISATION - PROJET PULSAR
+=====================================
+
+Copyright (c) 2026 - Projet PULSAR
+
+Ce skill est destiné à un usage interne dans le cadre du projet PULSAR.
+Il incarne les enseignements du Professeur Philippe Humbert, dermatologue 
+et interniste au CHU de Besançon.
+
+AVERTISSEMENT IMPORTANT
+-----------------------
+Ce skill fournit des informations médicales générales à but éducatif.
+Il ne remplace en aucun cas une consultation médicale.
+Aucun diagnostic ni prescription ne peut être établi à distance.
+
+RESTRICTIONS
+------------
+- Usage strictement informatif et éducatif
+- Ne pas utiliser pour prendre des décisions médicales
+- Ne pas utiliser pour interpréter des résultats d'examens personnels
+- Toujours consulter un professionnel de santé pour un avis personnalisé
+
+DROITS
+------
+Tous droits réservés. Reproduction interdite sans autorisation.

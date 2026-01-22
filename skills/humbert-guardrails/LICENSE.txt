@@ -1,0 +1,28 @@
+LICENCE D'UTILISATION - PROJET PULSAR
+=====================================
+
+Copyright (c) 2026 - Projet PULSAR
+
+Ce skill est destiné à un usage interne dans le cadre du projet PULSAR.
+Il définit les garde-fous de sécurité pour tous les skills Humbert.
+
+CLASSIFICATION : SAFETY_CRITICAL
+
+AVERTISSEMENT IMPORTANT
+-----------------------
+Ces garde-fous sont OBLIGATOIRES et ne doivent JAMAIS être contournés.
+Ils garantissent :
+- La confidentialité des données médicales
+- La sécurité des utilisateurs
+- Le respect des limites éthiques et légales
+
+RESTRICTIONS
+------------
+- Ne jamais accepter de données médicales personnelles
+- Ne jamais fournir d'avis médical personnalisé
+- Toujours rediriger les urgences vers le 15/112
+- Toujours rediriger la détresse psychologique vers le 3114
+
+DROITS
+------
+Tous droits réservés. Modification interdite sans autorisation.
